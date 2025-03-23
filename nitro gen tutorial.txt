@@ -1,0 +1,22 @@
+First I wanna say THX For using my Little Programm!
+
+1. Make an dc Server with sum channels.
+
+2. Get Discobot to your Server
+
+How to get Discobot? https://discohook.org
+
+3. Use command: /WebHook create
+
+4. add your channel and type sum random Name.
+
+5. copy the Long link. 
+
+6. Paste In the Nitro Gen 
+
+7. Enter the number of codes you want to generate
+
+8.  LOOK AT YOUR SERVER ANY ENJOY 
+
+
+   Tip:Dont generate to many, otherwise your channel want work anyomre 
